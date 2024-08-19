@@ -1,6 +1,10 @@
 # Retail Store Discounts
 
 ## Overview
+• Low Level Design
+• Software Development Practices
+• Hands-on Programming
+
 This project calculates the net payable amount for a bill based on various discount criteria.
 
 1. If the user is an employee of the store, he gets a 30% discount
